@@ -7,3 +7,15 @@ The system performs the following functions:
 
 Some Screenshots of the system are as follows:
 
+![output](https://github.com/sneha-almeida/android-app-for-LD-detection/blob/main/output2.PNG)
+
+![output](https://github.com/sneha-almeida/android-app-for-LD-detection/blob/main/output3.PNG)
+
+![output](https://github.com/sneha-almeida/android-app-for-LD-detection/blob/main/output4.PNG)
+
+![output](https://github.com/sneha-almeida/android-app-for-LD-detection/blob/main/output5.PNG)
+
+![output](https://github.com/sneha-almeida/android-app-for-LD-detection/blob/main/output6.PNG)
+
+![output](https://github.com/sneha-almeida/android-app-for-LD-detection/blob/main/output7.PNG)
+
